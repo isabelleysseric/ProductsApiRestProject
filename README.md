@@ -18,21 +18,21 @@ ProductsApiRestProject is a RESTful API built with ASP.NET Core that allows you 
 ## Features
 
 - **Item Management**:
-
+  
   - Retrieve all items
   - Retrieve a specific item by ID
   - Add a new item
   - Update an existing item
   - Delete an item
 - **Product Management**:
-
+  
   - Retrieve all products
   - Retrieve a specific product by ID
   - Add a new product
   - Update an existing product
   - Delete a product
 - **Documentation**:
-
+  
   - Project documentation generated with Sphinx.
   - Available formats: HTML, PDF.
 
@@ -80,7 +80,6 @@ The API will be accessible at `http://localhost:5000`.
 
 #### Items
 
-
 | Method | Endpoint          | Description                    |
 | ------ | ----------------- | ------------------------------ |
 | GET    | `/api/items`      | Retrieve all items             |
@@ -90,7 +89,6 @@ The API will be accessible at `http://localhost:5000`.
 | DELETE | `/api/items/{id}` | Delete an item                 |
 
 #### Products
-
 
 | Method | Endpoint             | Description                       |
 | ------ | -------------------- | --------------------------------- |
@@ -161,8 +159,9 @@ This project is licensed under the MIT License. See the [LICENSE]() file for det
 
 ## Structure du Projet
 
+```
 ProductsApiRestProject/
-││
+│
 ├── doc/
 │   └── locale/
 │       ├── .doctrees/
@@ -179,7 +178,7 @@ ProductsApiRestProject/
 │   ├── index.rst
 │   ├── installation.rst
 │   └── usage.rst
-|
+│
 ├── Controllers/
 │   ├── HomeController.cs
 │   ├── ItemsController.cs
@@ -205,5 +204,7 @@ ProductsApiRestProject/
 ├── Startup.cs
 ├── Program.cs
 └── README.md
+```
 
 This `README.md` file is designed to be comprehensive and user-friendly, providing all the necessary information to install, use, and contribute to `MyApiProject`.
+
