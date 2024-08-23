@@ -1,0 +1,45 @@
+# .gitignore for ProductsApiRestProject
+
+# Build directories
+bin/
+obj/
+build/
+
+# Ignore build outputs from Sphinx documentation
+doc/_build/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Ignore the output of Sphinx documentation
+docs/_build/
+
+# Ignore environment variables and secret files
+.env
+
+# Ignore compiled Python files (if applicable)
+*.pyc
+__pycache__/
+
+# Ignore the node_modules directory if using Node.js for frontend assets
+node_modules/
+
+# Include necessary files for the documentation
+!source/*.rst
+!source/conf.py
+!source/_static/
+!source/_templates/
+
+# ASP.NET specific files
+*.suo
+*.user
+*.rsuser
+*.userosscache
+*.userprefs

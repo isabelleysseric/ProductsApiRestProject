@@ -1,0 +1,136 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Isabelle Eysseric
+# This file is distributed under the same license as the ProductsApiRestProject
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ProductsApiRestProject \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-23 14:45-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../usage.rst:3
+msgid "Usage"
+msgstr ""
+
+#: ../usage.rst:5
+msgid "This section provides instructions on how to use ProductsApiRestProject."
+msgstr ""
+
+#: ../usage.rst:8
+msgid "Starting the API"
+msgstr ""
+
+#: ../usage.rst:10
+msgid ""
+"To start the API, navigate to the project directory and run the following"
+" command:"
+msgstr ""
+
+#: ../usage.rst:16
+msgid "The API will be accessible at `http://localhost:5000`."
+msgstr ""
+
+#: ../usage.rst:19
+msgid "API Endpoints"
+msgstr ""
+
+#: ../usage.rst:21
+msgid "ProductsApiRestProject provides the following endpoints:"
+msgstr ""
+
+#: ../usage.rst:24
+msgid "Items"
+msgstr ""
+
+#: ../usage.rst:26
+msgid "**GET** `/api/items` - Retrieve all items"
+msgstr ""
+
+#: ../usage.rst:27
+msgid "**GET** `/api/items/{id}` - Retrieve a specific item by ID"
+msgstr ""
+
+#: ../usage.rst:28
+msgid "**POST** `/api/items` - Add a new item"
+msgstr ""
+
+#: ../usage.rst:29
+msgid "**PUT** `/api/items/{id}` - Update an existing item"
+msgstr ""
+
+#: ../usage.rst:30
+msgid "**DELETE** `/api/items/{id}` - Delete an item"
+msgstr ""
+
+#: ../usage.rst:33
+msgid "Products"
+msgstr ""
+
+#: ../usage.rst:35
+msgid "**GET** `/api/products` - Retrieve all products"
+msgstr ""
+
+#: ../usage.rst:36
+msgid "**GET** `/api/products/{id}` - Retrieve a specific product by ID"
+msgstr ""
+
+#: ../usage.rst:37
+msgid "**POST** `/api/products` - Add a new product"
+msgstr ""
+
+#: ../usage.rst:38
+msgid "**PUT** `/api/products/{id}` - Update an existing product"
+msgstr ""
+
+#: ../usage.rst:39
+msgid "**DELETE** `/api/products/{id}` - Delete a product"
+msgstr ""
+
+#: ../usage.rst:42
+msgid "Example Requests"
+msgstr ""
+
+#: ../usage.rst:44
+msgid "Here are some examples of how to interact with the API using `curl`."
+msgstr ""
+
+#: ../usage.rst:47
+msgid "Retrieve All Items"
+msgstr ""
+
+#: ../usage.rst:54
+msgid "Add a New Product"
+msgstr ""
+
+#: ../usage.rst:67
+msgid "Update an Existing Item"
+msgstr ""
+
+#: ../usage.rst:79
+msgid "Delete a Product"
+msgstr ""
+
+#: ../usage.rst:86
+msgid "Next Steps"
+msgstr ""
+
+#: ../usage.rst:88
+msgid "To contribute to the project, see the `CONTRIBUTING.md` file."
+msgstr ""
+
+#: ../usage.rst:89
+msgid "For more details on the API, refer to the `API Reference` (if available)."
+msgstr ""
+

@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Isabelle Eysseric
+# This file is distributed under the same license as the ProductsApiRestProject
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ProductsApiRestProject \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-23 14:45-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../installation.rst:3
+msgid "Installation"
+msgstr ""
+
+#: ../installation.rst:5
+msgid ""
+"This section provides instructions on how to set up and install "
+"ProductsApiRestProject."
+msgstr ""
+
+#: ../installation.rst:8
+msgid "Prerequisites"
+msgstr ""
+
+#: ../installation.rst:10
+msgid "Before you begin, ensure you have met the following requirements:"
+msgstr ""
+
+#: ../installation.rst:12
+msgid ""
+"**.NET Core SDK**: Download and install from [Microsoft's official "
+"site](https://dotnet.microsoft.com/download)."
+msgstr ""
+
+#: ../installation.rst:13
+msgid ""
+"**Python 3.x**: Download and install from [Python's official "
+"site](https://www.python.org/downloads/)."
+msgstr ""
+
+#: ../installation.rst:14
+msgid "**Sphinx**: Install using pip:"
+msgstr ""
+
+#: ../installation.rst:20
+msgid ""
+"**MikTeX (Windows)** or **TeX Live (Linux/macOS)**: Required for PDF "
+"documentation generation."
+msgstr ""
+
+#: ../installation.rst:23
+msgid "Steps to Install"
+msgstr ""
+
+#: ../installation.rst:25
+msgid "Follow these steps to set up and install ProductsApiRestProject:"
+msgstr ""
+
+#: ../installation.rst:27
+msgid "**Clone the Repository**:"
+msgstr ""
+
+#: ../installation.rst:34
+msgid "**Restore .NET Dependencies**:"
+msgstr ""
+
+#: ../installation.rst:40
+msgid "**Set Up Python Environment** (Optional):"
+msgstr ""
+
+#: ../installation.rst:42
+msgid "It's recommended to use a virtual environment:"
+msgstr ""
+
+#: ../installation.rst:49
+msgid "Install the required Python packages:"
+msgstr ""
+
+#: ../installation.rst:55
+msgid "**Verify Installation**:"
+msgstr ""
+
+#: ../installation.rst:57
+msgid "Make sure everything is installed correctly by running:"
+msgstr ""
+
+#: ../installation.rst:63
+msgid "The API should now be running at `http://localhost:5000`."
+msgstr ""
+
+#: ../installation.rst:66
+msgid "Next Steps"
+msgstr ""
+
+#: ../installation.rst:68
+msgid "Once the installation is complete, you can start using the API."
+msgstr ""
+
+#: ../installation.rst:69
+msgid "See the :doc:`usage` section for detailed usage instructions."
+msgstr ""
+

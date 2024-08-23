@@ -1,0 +1,117 @@
+# TITRE DESCRIPTIF.
+# Copyright (C) 2024, Isabelle Eysseric
+# Ce fichier est distribué sous la même licence que le paquet ProductsApiRestProject.
+# PREMIER AUTEUR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ProductsApiRestProject \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-23 14:45-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../installation.rst:3
+msgid "Installation"
+msgstr "Installation"
+
+#: ../installation.rst:5
+msgid ""
+"This section provides instructions on how to set up and install "
+"ProductsApiRestProject."
+msgstr ""
+"Cette section fournit des instructions sur la configuration et l'installation "
+"de ProductsApiRestProject."
+
+#: ../installation.rst:8
+msgid "Prerequisites"
+msgstr "Prérequis"
+
+#: ../installation.rst:10
+msgid "Before you begin, ensure you have met the following requirements:"
+msgstr "Avant de commencer, assurez-vous d'avoir respecté les exigences suivantes :"
+
+#: ../installation.rst:12
+msgid ""
+"**.NET Core SDK**: Download and install from [Microsoft's official "
+"site](https://dotnet.microsoft.com/download)."
+msgstr ""
+"**.NET Core SDK** : Téléchargez et installez depuis le [site officiel de Microsoft](https://dotnet.microsoft.com/download)."
+
+#: ../installation.rst:13
+msgid ""
+"**Python 3.x**: Download and install from [Python's official "
+"site](https://www.python.org/downloads/)."
+msgstr ""
+"**Python 3.x** : Téléchargez et installez depuis le [site officiel de Python](https://www.python.org/downloads/)."
+
+#: ../installation.rst:14
+msgid "**Sphinx**: Install using pip:"
+msgstr "**Sphinx** : Installez avec pip :"
+
+#: ../installation.rst:20
+msgid ""
+"**MikTeX (Windows)** or **TeX Live (Linux/macOS)**: Required for PDF "
+"documentation generation."
+msgstr ""
+"**MikTeX (Windows)** ou **TeX Live (Linux/macOS)** : Requis pour la génération de documentation en PDF."
+
+#: ../installation.rst:23
+msgid "Steps to Install"
+msgstr "Étapes d'installation"
+
+#: ../installation.rst:25
+msgid "Follow these steps to set up and install ProductsApiRestProject:"
+msgstr "Suivez ces étapes pour configurer et installer ProductsApiRestProject :"
+
+#: ../installation.rst:27
+msgid "**Clone the Repository**:"
+msgstr "**Cloner le dépôt** :"
+
+#: ../installation.rst:34
+msgid "**Restore .NET Dependencies**:"
+msgstr "**Restaurer les dépendances .NET** :"
+
+#: ../installation.rst:40
+msgid "**Set Up Python Environment** (Optional):"
+msgstr "**Configurer l'environnement Python** (Optionnel) :"
+
+#: ../installation.rst:42
+msgid "It's recommended to use a virtual environment:"
+msgstr "Il est recommandé d'utiliser un environnement virtuel :"
+
+#: ../installation.rst:49
+msgid "Install the required Python packages:"
+msgstr "Installez les packages Python requis :"
+
+#: ../installation.rst:55
+msgid "**Verify Installation**:"
+msgstr "**Vérifier l'installation** :"
+
+#: ../installation.rst:57
+msgid "Make sure everything is installed correctly by running:"
+msgstr "Assurez-vous que tout est installé correctement en exécutant :"
+
+#: ../installation.rst:63
+msgid "The API should now be running at `http://localhost:5000`."
+msgstr "L'API devrait maintenant fonctionner à l'adresse `http://localhost:5000`."
+
+#: ../installation.rst:66
+msgid "Next Steps"
+msgstr "Étapes suivantes"
+
+#: ../installation.rst:68
+msgid "Once the installation is complete, you can start using the API."
+msgstr "Une fois l'installation terminée, vous pouvez commencer à utiliser l'API."
+
+#: ../installation.rst:69
+msgid "See the :doc:`usage` section for detailed usage instructions."
+msgstr "Consultez la section :doc:`usage` pour des instructions détaillées sur l'utilisation."

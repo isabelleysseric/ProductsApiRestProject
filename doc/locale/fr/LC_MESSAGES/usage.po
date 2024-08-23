@@ -1,0 +1,136 @@
+# TITRE DESCRIPTIF.
+# Copyright (C) 2024, Isabelle Eysseric
+# Ce fichier est distribué sous la même licence que le paquet ProductsApiRestProject.
+# PREMIER AUTEUR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ProductsApiRestProject \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-23 14:45-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../usage.rst:3
+msgid "Usage"
+msgstr "Utilisation"
+
+#: ../usage.rst:5
+msgid "This section provides instructions on how to use ProductsApiRestProject."
+msgstr "Cette section fournit des instructions sur l'utilisation de ProductsApiRestProject."
+
+#: ../usage.rst:8
+msgid "Starting the API"
+msgstr "Démarrer l'API"
+
+#: ../usage.rst:10
+msgid ""
+"To start the API, navigate to the project directory and run the following"
+" command:"
+msgstr ""
+"Pour démarrer l'API, accédez au répertoire du projet et exécutez la commande"
+" suivante :"
+
+#: ../usage.rst:16
+msgid "The API will be accessible at `http://localhost:5000`."
+msgstr "L'API sera accessible à l'adresse `http://localhost:5000`."
+
+#: ../usage.rst:19
+msgid "API Endpoints"
+msgstr "Points de terminaison de l'API"
+
+#: ../usage.rst:21
+msgid "ProductsApiRestProject provides the following endpoints:"
+msgstr "ProductsApiRestProject fournit les points de terminaison suivants :"
+
+#: ../usage.rst:24
+msgid "Items"
+msgstr "Éléments"
+
+#: ../usage.rst:26
+msgid "**GET** `/api/items` - Retrieve all items"
+msgstr "**GET** `/api/items` - Récupérer tous les éléments"
+
+#: ../usage.rst:27
+msgid "**GET** `/api/items/{id}` - Retrieve a specific item by ID"
+msgstr "**GET** `/api/items/{id}` - Récupérer un élément spécifique par ID"
+
+#: ../usage.rst:28
+msgid "**POST** `/api/items` - Add a new item"
+msgstr "**POST** `/api/items` - Ajouter un nouvel élément"
+
+#: ../usage.rst:29
+msgid "**PUT** `/api/items/{id}` - Update an existing item"
+msgstr "**PUT** `/api/items/{id}` - Mettre à jour un élément existant"
+
+#: ../usage.rst:30
+msgid "**DELETE** `/api/items/{id}` - Delete an item"
+msgstr "**DELETE** `/api/items/{id}` - Supprimer un élément"
+
+#: ../usage.rst:33
+msgid "Products"
+msgstr "Produits"
+
+#: ../usage.rst:35
+msgid "**GET** `/api/products` - Retrieve all products"
+msgstr "**GET** `/api/products` - Récupérer tous les produits"
+
+#: ../usage.rst:36
+msgid "**GET** `/api/products/{id}` - Retrieve a specific product by ID"
+msgstr "**GET** `/api/products/{id}` - Récupérer un produit spécifique par ID"
+
+#: ../usage.rst:37
+msgid "**POST** `/api/products` - Add a new product"
+msgstr "**POST** `/api/products` - Ajouter un nouveau produit"
+
+#: ../usage.rst:38
+msgid "**PUT** `/api/products/{id}` - Update an existing product"
+msgstr "**PUT** `/api/products/{id}` - Mettre à jour un produit existant"
+
+#: ../usage.rst:39
+msgid "**DELETE** `/api/products/{id}` - Delete a product"
+msgstr "**DELETE** `/api/products/{id}` - Supprimer un produit"
+
+#: ../usage.rst:42
+msgid "Example Requests"
+msgstr "Exemples de requêtes"
+
+#: ../usage.rst:44
+msgid "Here are some examples of how to interact with the API using `curl`."
+msgstr "Voici quelques exemples d'interaction avec l'API en utilisant `curl`."
+
+#: ../usage.rst:47
+msgid "Retrieve All Items"
+msgstr "Récupérer tous les éléments"
+
+#: ../usage.rst:54
+msgid "Add a New Product"
+msgstr "Ajouter un nouveau produit"
+
+#: ../usage.rst:67
+msgid "Update an Existing Item"
+msgstr "Mettre à jour un élément existant"
+
+#: ../usage.rst:79
+msgid "Delete a Product"
+msgstr "Supprimer un produit"
+
+#: ../usage.rst:86
+msgid "Next Steps"
+msgstr "Étapes suivantes"
+
+#: ../usage.rst:88
+msgid "To contribute to the project, see the `CONTRIBUTING.md` file."
+msgstr "Pour contribuer au projet, consultez le fichier `CONTRIBUTING.md`."
+
+#: ../usage.rst:89
+msgid "For more details on the API, refer to the `API Reference` (if available)."
+msgstr "Pour plus de détails sur l'API, consultez la `Référence de l'API` (si disponible)."
