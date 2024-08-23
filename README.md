@@ -161,49 +161,49 @@ This project is licensed under the MIT License. See the [LICENSE]() file for det
 
 ## Structure du Projet
 
-ProductsApiRestProject/
-││
-├── doc/
-│   └── locale/
-│       ├── .doctrees/
-│       ├── en/
-│       ├── fr/
-│       ├── index.pot
-│       ├── installation.pot
-│       └── usage.pot
-│
-├── source/
-│   ├── _static/
-│   ├── _templates/
-│   ├── conf.py
-│   ├── index.rst
-│   ├── installation.rst
-│   └── usage.rst
-|
-├── Controllers/
-│   ├── HomeController.cs
-│   ├── ItemsController.cs
-│   └── ProductsController.cs
-│
-├── Models/
-│   ├── ItemDto.cs
-│   └── ProductDto.cs
-│
-├── Services/
-│   ├── ItemService.cs
-│   ├── IItemService.cs
-│   ├── ProductService.cs
-│   └── IProductService.cs
-│
-├── wwwroot/
-│   └── favicon.ico
-│
-│── .gitignore
-│── make.bat
-├── Makefile
-├── ProductsApiRestProject.csproj
-├── Startup.cs
-├── Program.cs
-└── README.md
-
-This `README.md` file is designed to be comprehensive and user-friendly, providing all the necessary information to install, use, and contribute to `MyApiProject`.
+ProductsApiRestProject/  
+│  
+├── doc/  
+│   └── locale/  
+│       ├── .doctrees/  
+│       ├── en/  
+│       ├── fr/  
+│       ├── index.pot  
+│       ├── installation.pot  
+│       └── usage.pot  
+│  
+├── source/  
+│   ├── _static/  
+│   ├── _templates/  
+│   ├── conf.py  
+│   ├── index.rst  
+│   ├── installation.rst  
+│   └── usage.rst  
+|  
+├── Controllers/  
+│   ├── HomeController.cs  
+│   ├── ItemsController.cs  
+│   └── ProductsController.cs  
+│  
+├── Models/  
+│   ├── ItemDto.cs  
+│   └── ProductDto.cs  
+│  
+├── Services/  
+│   ├── ItemService.cs  
+│   ├── IItemService.cs  
+│   ├── ProductService.cs  
+│   └── IProductService.cs  
+│  
+├── wwwroot/  
+│   └── favicon.ico  
+│  
+│── .gitignore  
+│── make.bat  
+├── Makefile  
+├── ProductsApiRestProject.csproj  
+├── Startup.cs  
+├── Program.cs  
+└── README.md  
+  
+This `README.md` file is designed to be comprehensive and user-friendly, providing all the necessary information to install, use, and contribute to `MyApiProject`.  
