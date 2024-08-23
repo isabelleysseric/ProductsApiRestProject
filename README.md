@@ -2,6 +2,8 @@
 
 ProductsApiRestProject is a RESTful API built with ASP.NET Core that allows you to manage two main entities: `Products` and `Items`. This project also includes complete documentation generated with Sphinx, available in multiple formats, including HTML and PDF.
 
+![User interface image](doc/images/user-interface.png)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -14,6 +16,8 @@ ProductsApiRestProject is a RESTful API built with ASP.NET Core that allows you 
   - [PDF Documentation](#pdf-documentation)
 - [Contributing](#contributing)
 - [License](#license)
+
+
 
 ## Features
 
@@ -35,6 +39,8 @@ ProductsApiRestProject is a RESTful API built with ASP.NET Core that allows you 
   
   - Project documentation generated with Sphinx.
   - Available formats: HTML, PDF.
+
+
 
 ## Installation
 
@@ -65,6 +71,8 @@ Install Python Dependencies for Sphinx:
 ```bash
 pip install -r requirements.txt
 ```
+
+
 
 ## Usage
 
@@ -118,6 +126,8 @@ curl -X POST http://localhost:5000/api/products \
 }'
 ```
 
+
+
 ## Generating Documentation
 
 ### HTML Documentation
@@ -141,6 +151,8 @@ pdflatex ProductsApiRestProject.tex
 ```The PDF file will be generated in the `_build/latex` directory.
 ```
 
+
+
 ## Contributing
 
 Contributions are welcome! To contribute:
@@ -153,9 +165,13 @@ Contributions are welcome! To contribute:
 
 Please follow the coding conventions and document your changes.
 
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE]() file for details.
+
+
 
 ## Structure du Projet
 
