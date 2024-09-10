@@ -26,7 +26,7 @@
   </a>
 
   <!-- Wiki Project -->
-  <a href="https://github.com/isabelleysseric/ProductsApiRestProject/Wiki/">
+  <a href="https://github.com/isabelleysseric/ProductsApiRestProject/wiki/">
     <img src="https://img.shields.io/badge/Wiki-ProductsApiRestProject-green?style=for-the-badge&logo={ProductsApiRestProject}&logoColor=white" >
   </a>
   
