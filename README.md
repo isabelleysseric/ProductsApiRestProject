@@ -1,7 +1,5 @@
 # Products API-Rest Project
 
-ProductsApiRestProject is a RESTful API built with ASP.NET Core that allows you to manage two main entities: `Products` and `Items`. This project also includes complete documentation generated with Sphinx, available in multiple formats, including HTML and PDF.
-
 ![User interface image](doc/images/user-interface.png)
 
 <p align='center'>
@@ -13,7 +11,18 @@ ProductsApiRestProject is a RESTful API built with ASP.NET Core that allows you 
   &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn) <br/>
 </p>
 <br/>
+
+
+## Author
+[Isabelle Eysseric](https://github.com/isabelleysseric)
 <br/>
+<br/>
+
+
+## Project description
+
+Products Api Rest Project is a RESTful API built with ASP.NET Core that allows you to manage two main entities: `Products` and `Items`. This project also includes complete documentation generated with Sphinx, available in multiple formats, including HTML and PDF.
+
 
 ## Table of Contents
 
