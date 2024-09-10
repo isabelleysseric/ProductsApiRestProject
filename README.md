@@ -15,13 +15,18 @@
 -->
 <h2 align="center">    
 
-  <!-- Project Repo -->
+  <!-- GitHub -->
   <a href="https://github.com/isabelleysseric/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
+  </a>
+
+  <!-- Project Repo -->
+  <a href="https://github.com/isabelleysseric/ProductsApiRestProject/">
     <img src="https://img.shields.io/badge/Repo-ProductsApiRestProject-green?style=for-the-badge&logo={ProductsApiRestProject}&logoColor=white" >
   </a>
 
   <!-- Wiki Project -->
-  <a href="https://github.com/isabelleysseric/">
+  <a href="https://github.com/isabelleysseric/ProductsApiRestProject/Wiki">
     <img src="https://img.shields.io/badge/Wiki-ProductsApiRestProject-green?style=for-the-badge&logo={ProductsApiRestProject}&logoColor=white" >
   </a>
   
