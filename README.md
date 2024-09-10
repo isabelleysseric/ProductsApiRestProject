@@ -28,7 +28,7 @@
   <!-- GitHub -->
   <a href="https://github.com/isabelleysseric/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
-  </a>
+  </a><br>
     
   <!-- AI Page -->
   <a href="https://isabelleysseric.ai/">
@@ -43,7 +43,7 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/isabelleysseric/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-  </a><br>
+  </a>
   
   <!-- Docker Hub -->
   <a href="https://hub.docker.com/u/isabelleysseric">
