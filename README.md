@@ -28,6 +28,9 @@ Products Api Rest Project is a RESTful API built with ASP.NET Core that allows y
 
 - [Features](#features)
 - [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Clone the Repository](#clone-the-repository)
+  - [Install Dependencies](#install-dependencies)
 - [Usage](#usage)
   - [API Endpoints](#api-endpoints)
   - [Request Examples](#request-examples)
