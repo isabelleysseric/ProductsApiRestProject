@@ -2,6 +2,7 @@
 
 ![User interface image](doc/images/user-interface.png)
 
+<!-- 
 <p align="center">
   <a href="https://github.com/isabelleysseric/ProductsApiRestProject">ProductsApiRestProject</a> (GitHub)
   &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/ProductsApiRestProject/wiki">ProductsApiRestProject</a> (Wiki)<br/>
@@ -11,6 +12,48 @@
   &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelleysseric/">isabelleysseric</a> (LinkedIn) <br/>
 </p>
 <br/>
+-->
+<h2 align="center">    
+
+  <a href="https://github.com/isabelleysseric/ProductsApiRestProject">ProductsApiRestProject</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/ProductsApiRestProject/wiki">ProductsApiRestProject</a> (Wiki)<br/>
+    
+  <!-- GitHub -->
+  <a href="https://github.com/isabelleysseric/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
+  </a>
+    
+  <!-- AI Page -->
+  <a href="https://isabelleysseric.ai/">
+    <img src="https://img.shields.io/badge/AI-Page-blue?style=for-the-badge&logo={AI-Page}&logoColor=white" >
+  </a>
+    
+  <!-- Portfollio -->
+  <a href="https://isabelleysseric.com/Resume.html">
+    <img src="https://img.shields.io/badge/Portfollio-bfbfbf?style=for-the-badge&logo={Portfollio}&logoColor=white" >
+  </a>
+    
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/isabelleysseric/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+  </a><br>
+  
+  <!-- Docker Hub -->
+  <a href="https://hub.docker.com/u/isabelleysseric">
+    <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo={dockerhub}&logoColor=#2496ed" >
+  </a>
+
+  <!-- Gazebo Sim -->
+  <a href="https://hub.docker.com/u/isabelleysseric">
+    <img src="https://img.shields.io/badge/Gazebo_Sim-orange?style=for-the-badge&logo={gazebosim}&logoColor=#2496ed" >
+  </a>
+  
+  <!-- GMAIL -->
+  <a href="mailto: isabelleysseric@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+  </a>
+  <br/><br/>
+</h2>
 
 
 ## Author
