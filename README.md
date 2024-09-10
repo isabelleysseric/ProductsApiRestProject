@@ -58,8 +58,8 @@
   <!-- GMAIL -->
   <a href="mailto: isabelleysseric@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
-  </a>
-  <br/><br/>
+  </a><br/><br/>
+  
 </h2>
 
 
