@@ -22,12 +22,12 @@
 
   <!-- Project Repo -->
   <a href="https://github.com/isabelleysseric/ProductsApiRestProject/">
-    <img src="https://img.shields.io/badge/Repo-ProductsApiRestProject-green?style=for-the-badge&logo={ProductsApiRestProject}&logoColor=white" >
+    <img src="https://img.shields.io/badge/Repo-Products_API_Rest_Project-green?style=for-the-badge&logo={ProductsApiRestProject}&logoColor=white" >
   </a>
 
   <!-- Wiki Project -->
   <a href="https://github.com/isabelleysseric/ProductsApiRestProject/wiki/">
-    <img src="https://img.shields.io/badge/Wiki-ProductsApiRestProject-green?style=for-the-badge&logo={ProductsApiRestProject}&logoColor=white" >
+    <img src="https://img.shields.io/badge/Wiki-Products_API_Rest_Project-green?style=for-the-badge&logo={ProductsApiRestProject}&logoColor=white" >
   </a>
   
 </h2>
