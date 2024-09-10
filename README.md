@@ -1,8 +1,8 @@
-# Products API-Rest Project
+<h1 align="center">Products API-Rest Project</h1>
 
 ![User interface image](doc/images/user-interface.png)
 
-<p align='center'>
+<p align="center">
   <a href="https://github.com/isabelleysseric/ProductsApiRestProject">ProductsApiRestProject</a> (GitHub)
   &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/ProductsApiRestProject/wiki">ProductsApiRestProject</a> (Wiki)<br/>
   <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
