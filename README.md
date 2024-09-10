@@ -34,6 +34,7 @@ Products Api Rest Project is a RESTful API built with ASP.NET Core that allows y
 - [Generating Documentation](#generating-documentation)
   - [HTML Documentation](#html-documentation)
   - [PDF Documentation](#pdf-documentation)
+- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -48,6 +49,7 @@ Products Api Rest Project is a RESTful API built with ASP.NET Core that allows y
   - Add a new item
   - Update an existing item
   - Delete an item
+
 - **Product Management**:
   
   - Retrieve all products
@@ -55,6 +57,7 @@ Products Api Rest Project is a RESTful API built with ASP.NET Core that allows y
   - Add a new product
   - Update an existing product
   - Delete a product
+
 - **Documentation**:
   
   - Project documentation generated with Sphinx.
@@ -173,27 +176,7 @@ pdflatex ProductsApiRestProject.tex
 
 
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add a new feature'`).
-4. Push the branch (`git push origin feature/your-feature`).
-5. Create a Pull Request.
-
-Please follow the coding conventions and document your changes.
-
-
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
-
-
-
-## Structure du Projet
+## Project Structure
 
 ```
 ProductsApiRestProject/
@@ -243,4 +226,26 @@ ProductsApiRestProject/
 ```
 
 This `README.md` file is designed to be comprehensive and user-friendly, providing all the necessary information to install, use, and contribute to `MyApiProject`.
+
+
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -am 'Add a new feature'`).
+4. Push the branch (`git push origin feature/your-feature`).
+5. Create a Pull Request.
+
+Please follow the coding conventions and document your changes.
+
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/isabelleysseric/ProductsApiRestProject/blob/master/LICENSE) file for details.
+
+
 
