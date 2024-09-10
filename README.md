@@ -4,6 +4,17 @@ ProductsApiRestProject is a RESTful API built with ASP.NET Core that allows you 
 
 ![User interface image](doc/images/user-interface.png)
 
+<p align='center'>
+  <a href="https://github.com/isabelleysseric/ProductsApiRestProject">ProductsApiRestProject</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/ProductsApiRestProject/wiki">ProductsApiRestProject</a> (Wiki)<br/>
+  <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
+  &nbsp; • &nbsp;<a href="https://isabelleysseric.ai/">isabelleysseric.ai</a> (Projects)
+  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn) <br/>
+</p>
+<br/>
+<br/>
+
 ## Table of Contents
 
 - [Features](#features)
